@@ -2,6 +2,7 @@
 Working with textual images using computer vision for solving document-related tasks
 
 Recommended - open this repository in colab
+
 https://colab.research.google.com/github/LorSong/Document-image-analysis-CV/blob/master/
 
 Work description.
