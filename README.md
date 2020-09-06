@@ -16,8 +16,9 @@ Global goal of this work is to create efficient pipelines for processing textual
 
 First part:
  - Exploratory work on textual image recognition. 
-  First notebook
-  * Load_Process_Experiments
+
+  
+  * 1_Load_Process_Experiments
     In this notebook I'm preparing data for tf.data API and trying simple approaches to preprocess images.
 
 
