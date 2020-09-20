@@ -23,7 +23,10 @@ Exploratory work on textual image recognition
   * 2_Slicing_images_Experiments:
     Here I'm experimenting with slicing and recovering a big image to reduce memory load. And visualisation of labels (locations of text) for the upcoming text detection task.
   
-  * Upcoming. Implementing YoloV3 architecture on DDI-100 dataset for text detection. 
+  * 3_Yolov3_Text_detection:
+    Using YoloV3 architecture on DDI-100 dataset for text detection. Preparing data, preprocessing and postprocessing it.
+    Preprocessing includes previous slicing experiments - cutting 2700x2000 image into 416x416 overlapping pieces along with boxes labels.
+    Results were pretty good. Though postprocessing step requires a bit fine tuning.
     
 
 Datasets used in this work
