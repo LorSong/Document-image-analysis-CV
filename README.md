@@ -5,7 +5,7 @@ Recommended - open this repository in colab
 
 https://colab.research.google.com/github/LorSong/Document-image-analysis-CV/blob/master/
 
-Work description
+Work description <br/>
 Global goal of this work is to create efficient pipelines for processing textual images. These pipelines will perform:
 
 *   Image preprocessing
